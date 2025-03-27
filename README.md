@@ -1,5 +1,5 @@
  # Toxic Comment Detection & Classification using AI
-Welcome to the **Toxic Comment Detection & Classification** project!
+Welcome to the **Toxic Comment Detection & Classification** project
 
 In today's digital world, online platforms are full of user-generated content. While many interactions are positive, toxic comments can lead to harassment, bullying, and a negative user experience. This
 project leverages **Artificial Intelligence (AI)** to detect and classify these toxic comments in real-time, promoting a safer and more respectful online environment.
